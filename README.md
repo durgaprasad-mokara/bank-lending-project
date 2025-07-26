@@ -49,8 +49,7 @@ This system is built using modern technologies with a clean, RESTful API, making
 
 bash
 
-git clone https://github.com/durgaprasad-mokara/Bank-Lending-System.git
-cd Bank-Lending-System
+github link: https://github.com/durgaprasad-mokara/Bank-Lending-System.git
 
 
 2️⃣ Backend Setup
